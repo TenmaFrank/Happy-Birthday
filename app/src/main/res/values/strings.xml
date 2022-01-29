@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Happy Birthday</string>
+    <string name="birthdayTitleLabler">!Happy Birthday!</string>
+    <string name="fromLabel">From EMMA</string>
 </resources>
